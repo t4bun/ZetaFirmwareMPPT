@@ -42,8 +42,8 @@ const long  gmtOffset_sec = 0;
 const int   daylightOffset_sec = 0;
 
 //========== WIFI PARAMETERS ==========//
-const char* ssid     = "Reiya";
-const char* password =  "awawa666";
+const char* ssid     = "WIFI NAME";
+const char* password =  "WIFI PASSWORD";
 
 //========== SYSTEM CONFIG ==========//
 bool startw                = true;     //start pwm initiate
