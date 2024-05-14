@@ -1,7 +1,7 @@
 # ZetaFirmwareMPPT
 
 
-This repo contains Zeta Converter MPPT Firmware V1.1. For further purposes, needs to be reprogrammed due to a lack of system protection programs and also needs to test if you want to use battery as the load.
+This repo contains Zeta Converter MPPT Firmware V1.0. For further purposes, needs to be reprogrammed due to a lack of system protection programs and also needs to test if you want to use battery as the load.
 
 Feature :
 
